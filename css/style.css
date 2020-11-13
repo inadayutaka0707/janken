@@ -1,0 +1,51 @@
+.header {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+.main {
+    float: left;
+    height: 300px;
+    line-height: 2;
+}
+
+.mainkougeki {
+    float: left;
+    padding-top: 50px;
+}
+
+.main2 {
+    float: right;
+    height: 300px;
+    line-height: 2;
+}
+
+.main2kougeki {
+    float: right;
+    padding-top: 50px;
+}
+
+.img1, .img2, .img3 {
+    transition: 3s;
+}
+
+.imga, .imgb, .imgc {
+    transition: 3s;
+}
+
+.hantei {
+    text-align: center;
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.hanteia {
+    text-align: center;
+    content: "";
+    clear: both;
+    display: block;
+}
